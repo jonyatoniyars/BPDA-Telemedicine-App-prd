@@ -1,0 +1,15 @@
+# Local secrets — never commit real credentials
+config.php
+
+# Installer marker
+admin/install.php.done
+
+# Logs
+*.log
+
+# Dependencies
+/vendor/
+
+# OS cruft
+.DS_Store
+Thumbs.db
