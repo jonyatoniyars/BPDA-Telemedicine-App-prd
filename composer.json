@@ -1,0 +1,8 @@
+{
+    "name": "bpda/pallicare-telemedicine",
+    "description": "BPDA PalliCare Telemedicine Application",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    }
+}
